@@ -1,3 +1,1 @@
-Existing Assignment 2 deployment: https://habibaseif.github.io/assignment2_DoWBS/#projects
-
-Assignment 3 note: publish this updated project to GitHub Pages or Netlify, then replace this file with the new live website URL before submission.
+https://habibaseif.github.io/Assignment3_DoWBS/
